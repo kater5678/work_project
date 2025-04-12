@@ -1,1 +1,1 @@
-"Этот файл создан для практической работы" 
+"This file was created for practical work" 
